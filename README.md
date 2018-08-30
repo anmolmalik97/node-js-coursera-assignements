@@ -1,2 +1,1 @@
-# node-js-coursera-assignements
-All the assignments for node js  coursera course
+# Solutions for assignment for the Server side development course with NodeJS - Coursera.
